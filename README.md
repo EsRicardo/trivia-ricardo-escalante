@@ -1,5 +1,4 @@
-# trivia cultura general
-[demo](https://github.com/EsRicardo/trivia-ricardo-escalante/tree/main)
+# trivia cultura general [Demo](https://github.com/EsRicardo/trivia-ricardo-escalante/tree/main)
 ##preg:
 
 #Licencia:
